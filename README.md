@@ -1,4 +1,3 @@
-### Merhabalar👋
 
 ![Aircrack-ng ile WiFi Güvenlik Testleri](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq5XAXu-hWPig2Q60dL_JqHpyZkoUEckjFFw&s)
 
