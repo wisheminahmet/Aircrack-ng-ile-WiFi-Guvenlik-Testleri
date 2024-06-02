@@ -14,11 +14,11 @@
 
 Bu proje, yalnızca yetkili olduğunuz ağlarda kullanılmalıdır. İzinsiz ağlara erişim yasa dışıdır ve ciddi yasal sonuçlar doğurabilir. Bu araçları kullanarak yapılan her türlü yasa dışı faaliyetten tamamen kullanıcı sorumludur.
 
-## **Gerekli Araçlar ve Kurulum**
+## **1.Gerekli Araçlar ve Kurulum**
 
 Aircrack-ng araç setini kurmak için aşağıdaki adımları takip edin:
 
-### **1.Aircrack-ng Yükleme**
+### **Aircrack-ng Yükleme**
 ```
 sudo apt update
 sudo apt install aircrack-ng
